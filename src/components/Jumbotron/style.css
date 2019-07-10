@@ -1,0 +1,10 @@
+ .Jumbotron {
+ height: 400;
+  padding-Top: 10%;
+   text-Align: center;
+   -web-kit-Text-Stroke: 1px gray; 
+    color: white;
+    text-Shadow: 10px 10px 0 #000 -2px -2px 0 #000 2px -2px 0 #000 -2px 2px 0 #000  2px 2px 0 #000; background-color: #f77a3b; 
+    
+
+ }

@@ -1,0 +1,12 @@
+form.search {
+  margin: 1%;
+  margin-left: 7%;
+}
+
+form.search button[type="submit"] {
+  margin: 1%;
+  margin-bottom: 1.5%;
+  background-color: #595959;
+  color: white;
+  border-color: #595959;
+}

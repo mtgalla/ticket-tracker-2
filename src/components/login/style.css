@@ -1,0 +1,10 @@
+.loginBox, .signUpBox {
+    margin-left: 14%;
+    margin-top: 10%;
+    border-color: black;
+}
+
+.btn-login, .btn-signup {
+    background-color: Grey;
+    border-color: grey;
+}
