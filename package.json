@@ -9,7 +9,7 @@
     "bootstrap": "^4.3.1",
     "cheerio": "^1.0.0-rc.3",
     "connect-mongo": "^2.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
